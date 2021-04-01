@@ -6,7 +6,7 @@ logo_width = "200px"
 [navigation_button]
 enable = true
 label = "Get Started"
-link = "contact"
+link = "home"
 [preloader]
 enable = true
 preloader = ""
