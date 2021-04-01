@@ -1,5 +1,5 @@
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "#contact_form_action = \"https://formspree.io/admin@frankanthny.com/\""
 description = "This is meta description"
 logo = "/images/fa-logo-7.png"
 logo_width = "200px"
